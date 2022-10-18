@@ -1,5 +1,5 @@
 <?php
-echo "Comment tu t'appelles ?";
+echo "Comment tu t'appellesss ?";
 $prenom = readline();
 if (strtoupper($prenom) == "JUSTE")
 {
